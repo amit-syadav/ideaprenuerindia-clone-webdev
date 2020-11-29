@@ -102,11 +102,11 @@
           }
          else{
            ?>
-           <a href="keval/first.php">
+           <a href="controls/first.php">
              <button type="button" class="btn btn-info">Create</button>
 
            </a>
-           <a href="keval/logout.php">
+           <a href="controls/logout.php">
              <button type="button" class="btn btn-info">Logout</button>
 
            </a>

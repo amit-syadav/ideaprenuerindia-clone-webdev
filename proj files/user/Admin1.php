@@ -5,7 +5,7 @@
 
 		if($username=="admin" && (int)$password==1234)
 		{
-			echo"<script> location.href='../keval/transfer.html'</script>";
+			echo"<script> location.href='../controls/transfer.html'</script>";
 		}
 		else{
 			echo '<script type="text/javascript">alert("No such User exists. Invalid Credentials")</script>';
@@ -138,7 +138,7 @@ input{
 	<div id="main-wrapper">
 	<center><h2>Admin Login Form</h2></center>
 
-		<form action="../keval/transfer.html" method="post">
+		<form action="../controls/transfer.html" method="post">
 
 			<div class="inner_container">
 				<label><b>Username</b></label>
