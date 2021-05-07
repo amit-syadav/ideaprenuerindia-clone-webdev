@@ -1,3 +1,5 @@
+![](https://github.com/amit-syadav/ideaprenuerindia-clone-webdev/blob/master/ideaprenuer%20screenshots/all%20screen%20shots.gif)
+
 This is a group internship project developed by Amit, Keval and Anmol .
 
 To run this prerequisites are: xampp server and computer with internet connection (to load images).
